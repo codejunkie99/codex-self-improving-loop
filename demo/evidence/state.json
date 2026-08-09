@@ -1,0 +1,8 @@
+{
+  "status": "done",
+  "cycles_run": 1,
+  "last_progress_cycle": 1,
+  "runner_model": "opencode-go/deepseek-v4-flash",
+  "watcher_model": "gpt-5.6-luna",
+  "rewriter_model": "gpt-5.6-sol"
+}
